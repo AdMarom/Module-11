@@ -1,7 +1,17 @@
-
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "new note",
+        "text": "noep",
+        "id": "adee3cc3-a3f6-4c22-9b91-0af733d024d3"
+    },
+    {
+        "title": "test1",
+        "text": "test1",
+        "id": "d3a44abf-1045-44f0-9172-4dce55ac0890"
+    },
+    {
+        "title": "test2",
+        "text": "test2",
+        "id": "c179e1d8-04b1-459a-b5f6-652a86dce47f"
     }
 ]

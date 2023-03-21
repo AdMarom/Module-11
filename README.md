@@ -13,6 +13,10 @@ To use Note Taker, simply open the application in your web browser. There is no 
 Press the "Get Started" button to start using the application.
 
 
+![alt text](./images/Screen%20Shot.png)
+![alt text](./images/Screen%20Shot%3Anotes.png)
+
+
 ## Credits
 GitHub: AdMarom 
 Starter Code By: Xandromus
